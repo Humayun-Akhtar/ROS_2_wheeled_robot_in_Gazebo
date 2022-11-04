@@ -13,7 +13,7 @@ The packages are tested on ROS Noetic Ninjemys.
 # Usage
 Clone the codes
 
-git clone https://github.com/sulibo/Two_Wheeled_Robot_ROS_Tutorial.git 
+git clone https://github.com/Humayun-Akhtar/ROS_2_wheeled_robot_in_Gazebo.git
 Build the ROS packages
 
 cd Two_Wheeled_Robot_ROS_Tutorial
