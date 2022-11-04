@@ -1,4 +1,4 @@
-# Introduction
+# About the Project
 The projects in this repository is a reimplementation of the ROS projects in the tutorial Exploring ROS using a two-wheeled robot by Marco Arruda with few changes to make it executable with the ROS neotic. 
 This uses a two-wheeled robot to show the features and tools provided by ROS. Further, the project implements the concepts related to 
 
@@ -10,16 +10,25 @@ By using the codes in this repository, you can run the ROS packages in your loca
 
 # Usage
 Clone the codes
-
-
+```ruby
+cd catkin_ws/
+```ruby
+cd src/
+``````
 ```ruby
 git clone https://github.com/Humayun-Akhtar/ROS_2_wheeled_robot_in_Gazebo.git
 ```
+```ruby
+cd ..
+```
 Build the ROS packages
+```ruby
+catkin_make
+```
+```ruby
+source /devel/setup.bash
+```
 
-cd Two_Wheeled_Robot_ROS_Tutorial
-catkin build
-source ./devel/setup.bash
 
 # References
 
