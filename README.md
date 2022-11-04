@@ -12,9 +12,10 @@ By using the codes in this repository, you can run the ROS packages in your loca
 Clone the codes
 ```ruby
 cd catkin_ws/
+```
 ```ruby
 cd src/
-``````
+```
 ```ruby
 git clone https://github.com/Humayun-Akhtar/ROS_2_wheeled_robot_in_Gazebo.git
 ```
