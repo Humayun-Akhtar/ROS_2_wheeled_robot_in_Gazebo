@@ -30,6 +30,11 @@ catkin_make
 source /devel/setup.bash
 ```
 
+PS: install slam_gmapping package before running the gmapping.launch
+```ruby
+git clone https://github.com/ros-perception/slam_gmapping.git
+```
+Then run catkin_make for the new package
 
 # References
 
